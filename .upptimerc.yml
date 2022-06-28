@@ -6,7 +6,7 @@ sites:
     url: https://www.myspleen.org
 
 status-website:
-  baseUrl: /IsMyspleenDown
+  cname: status.myspleen.org
   logoUrl: https://www.myspleen.org/pic/logo.png
   name: Myspleen Status Page
   introTitle: Is Myspleen Down?
