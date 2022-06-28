@@ -12,3 +12,6 @@ status-website:
   introTitle: Is Myspleen Down?
   introMessage: This status page checks Myspleen every 5 minutes
   theme: dark
+
+i18n:
+  footer:
