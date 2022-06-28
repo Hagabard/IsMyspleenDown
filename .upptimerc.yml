@@ -14,4 +14,4 @@ status-website:
   theme: dark
 
 i18n:
-  footer:
+  footer: Thanks for checking!
