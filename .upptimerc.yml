@@ -11,15 +11,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /IsMyspleenDown
-  logoUrl: https://www.myspleen.org/pic/logo.png
+  logoUrl: /logo.png
   name: Is Myspleen Down?
   introTitle: Myspleen Status Page
   introMessage: This status page checks Myspleen every 5 minutes
-  navbar:
-    - title: Status
-      href: /
-    - title: Myspleen
-      href: https://www.myspleen.org/
+#  navbar:
+#    - title: Status
+#      href: /
+#    - title: Myspleen
+#      href: https://www.myspleen.org/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
