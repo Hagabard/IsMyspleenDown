@@ -4,7 +4,7 @@
     "url": "https://www.myspleen.org",
     "icon": "https://favicons.githubusercontent.com/www.myspleen.org",
     "slug": "myspleen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 425,
     "timeMonth": 400,
     "timeYear": 400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-07": 0
+    }
   }
 ]
