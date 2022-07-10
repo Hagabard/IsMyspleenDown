@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.myspleen.org",
     "slug": "myspleen",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 713,
-    "timeDay": 402,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 697,
+    "timeDay": 327,
     "timeWeek": 1009,
-    "timeMonth": 713,
-    "timeYear": 713,
+    "timeMonth": 697,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2022-07-07": 23
     }
