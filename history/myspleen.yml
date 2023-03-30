@@ -1,7 +1,7 @@
 url: https://www.myspleen.org
-status: up
-code: 200
-responseTime: 380
-lastUpdated: 2023-03-29T23:18:09.702Z
+status: down
+code: 502
+responseTime: 587
+lastUpdated: 2023-03-30T16:55:26.895Z
 startTime: Tue Jun 28 2022 18:52:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
