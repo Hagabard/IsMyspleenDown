@@ -4,7 +4,7 @@
     "url": "https://www.myspleen.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.myspleen.org.ico",
     "slug": "myspleen",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 483,
     "timeYear": 543,
     "dailyMinutesDown": {
+      "2023-05-17": 0,
       "2023-04-02": 500,
       "2023-03-27": 159,
       "2023-03-26": 1098,
