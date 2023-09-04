@@ -6,15 +6,15 @@
     "slug": "myspleen",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "93.34%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.04%",
     "time": 545,
-    "timeDay": 972,
-    "timeWeek": 1143,
-    "timeMonth": 645,
-    "timeYear": 554,
+    "timeDay": 786,
+    "timeWeek": 699,
+    "timeMonth": 662,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2023-09-02": 96,
       "2023-04-02": 500,
@@ -39,8 +39,7 @@
       "2022-10-06": 43,
       "2022-09-24": 20,
       "2022-09-11": 19,
-      "2022-09-09": 36,
-      "2022-09-04": 27
+      "2022-09-09": 36
     }
   }
 ]
