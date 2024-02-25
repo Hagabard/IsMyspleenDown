@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.myspleen.org.ico",
     "slug": "myspleen",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 670,
-    "timeDay": 317,
-    "timeWeek": 713,
-    "timeMonth": 650,
+    "timeDay": 337,
+    "timeWeek": 708,
+    "timeMonth": 634,
     "timeYear": 714,
     "dailyMinutesDown": {
       "2024-01-18": 64,
@@ -24,8 +24,7 @@
       "2023-04-02": 500,
       "2023-03-27": 159,
       "2023-03-26": 1098,
-      "2023-03-19": 737,
-      "2023-02-25": 17
+      "2023-03-19": 737
     }
   }
 ]
