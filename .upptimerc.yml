@@ -3,7 +3,7 @@ repo: IsMyspleenDown # The name of this repository
 
 sites:
   - name: Myspleen
-    url: https://www.myspleen.org
+    url: https://www.myspleen.org/uptime.php
 
 status-website:
   cname: status.myspleen.org
