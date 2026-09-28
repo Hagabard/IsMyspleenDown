@@ -4,19 +4,20 @@
     "url": "https://www.myspleen.org/uptime.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.myspleen.org.ico",
     "slug": "myspleen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 240,
-    "timeDay": 326,
-    "timeWeek": 250,
-    "timeMonth": 241,
-    "timeYear": 213,
+    "time": 278,
+    "timeDay": 9873,
+    "timeWeek": 2646,
+    "timeMonth": 822,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-11-18": 120
+      "2025-11-18": 120,
+      "2026-09-28": 0
     }
   }
 ]
